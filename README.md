@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center"><a href="https://LN-Dark.github.io"><img width="80%" alt="Hello, I'm Pedro." /></a></p>
 
-<!--
-**LN-Dark/LN-Dark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+**About me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ❤️ I love writing Kotlin
+
+- 💬 Ask me anything [here](https://github.com/LN-Dark/LN-Dark/issues)
+
+<code><img height="20" alt="kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" alt="android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
+<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>    
+
+
+| <a href="https://github.com/LN-Dark/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LN-Dark&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pedro github stats" /></a> | <a href="https://github.com/LN-Dark/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LN-Dark&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
