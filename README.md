@@ -7,6 +7,8 @@
 - ❤️ I love programming in Kotlin
 - 💻 Currently pursuing my studies at 42 School
 - 💼 I work as a freelance programmer
+- 🌐 Check out my company: [spire.pt](http://www.spire.pt)
+- 🌐 Visit my personal site: [pcruz.spire.pt](http://pcruz.spire.pt)
 - 💬 Ask me anything [here](https://github.com/LN-Dark/LN-Dark/issues)
 
 <code><img height="20" alt="kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
