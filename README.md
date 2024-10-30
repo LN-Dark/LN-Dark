@@ -15,5 +15,5 @@
 <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>    
 
 
-| <a href="https://github.com/LN-Dark/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LN-Dark&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pedro github stats" /></a> | <a href="https://github.com/LN-Dark/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LN-Dark&layout=compact&theme=buefy&hide_border=true" /></a> |
+| [![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=LN-Dark)](https://github.com/anuraghazra/github-readme-stats) | <a href="https://github.com/LN-Dark/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LN-Dark&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
