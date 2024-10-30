@@ -1,4 +1,4 @@
-<p align="center"><a href="https://LN-Dark.github.io"><img width="80%" alt="Hello, I'm Pedro." /></a></p>
+# 👋 Hey there, I'm Ash!
 
 <br />
 
