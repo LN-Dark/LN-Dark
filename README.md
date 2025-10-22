@@ -10,7 +10,7 @@
 
 - ❤️ I love programming in Kotlin
 - 💻 Currently pursuing my studies at 42 School
-- 💼 I work as a freelance programmer
+- 💼 I am CEO of SPIRE
 - 🌐 Check out my company: [Spire](http://www.spire.pt)
 - 🌐 Visit my personal site: [WWW](http://pcruz.spire.pt)
 - 💬 Ask me anything [here](https://github.com/LN-Dark/LN-Dark/issues)
