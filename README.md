@@ -18,7 +18,6 @@
 [![Official Website](https://img.shields.io/badge/WEBSITE-pcruz.spire.pt-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=05070B&labelColor=0A0F1A)](https://pcruz.spire.pt/?lang=en)
 [![Resume EN](https://img.shields.io/badge/RESUME-PDF_(EN)-3B82F6?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0A0F1A)](https://pcruz.spire.pt/assets/pdf/CV_Pedro_Cruz_english.pdf)
 [![CV PT](https://img.shields.io/badge/CV-PDF_(PT)-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0A0F1A)](https://pcruz.spire.pt/assets/pdf/CV_Pedro_Cruz.pdf)
-[![Direct Email](https://img.shields.io/badge/CONTACT-pcruz%40spire.pt-10B981?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0A0F1A)](mailto:pcruz@spire.pt)
 
 </div>
 
@@ -165,7 +164,7 @@ Each platform was born out of a real operational problem in a real business and 
 
 Available for new custom software architecture, private AI integration, and critical infrastructure projects.
 
-[**🌐 pcruz.spire.pt**](https://pcruz.spire.pt/?lang=en) · [**✉️ pcruz@spire.pt**](mailto:pcruz@spire.pt) · [**📞 +351 963 503 544**](https://pcruz.spire.pt/?lang=en#contacto)
+[**🌐 pcruz.spire.pt**](https://pcruz.spire.pt/?lang=en)
 
 <sub>⚡ Engineered from the ground up by <b>Pedro Cruz (LN-Dark)</b> · Spire & AccounTech</sub>
 
