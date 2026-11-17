@@ -165,7 +165,7 @@ Cada plataforma nasceu de um problema real num negócio real e encontra-se em op
 
 Disponível para novos projetos de arquitetura de software, inteligência artificial privada e infraestrutura crítica.
 
-[**🌐 pcruz.spire.pt**](https://pcruz.spire.pt/?lang=pt) · [**✉️ pcruz@spire.pt**](mailto:pcruz@spire.pt) · [**📞 +351 963 503 544**](https://pcruz.spire.pt/?lang=pt#contacto)
+[**🌐 pcruz.spire.pt**](https://pcruz.spire.pt/?lang=pt)
 
 <sub>⚡ Engineered from the ground up by <b>Pedro Cruz (LN-Dark)</b> · Spire & AccounTech</sub>
 
