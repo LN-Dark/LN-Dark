@@ -18,8 +18,6 @@
 [![Website Oficial](https://img.shields.io/badge/WEBSITE-pcruz.spire.pt-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=05070B&labelColor=0A0F1A)](https://pcruz.spire.pt/?lang=pt)
 [![Currículo PT](https://img.shields.io/badge/CURRÍCULO-PDF_(PT)-3B82F6?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0A0F1A)](https://pcruz.spire.pt/assets/pdf/CV_Pedro_Cruz.pdf)
 [![Resume EN](https://img.shields.io/badge/RESUME-PDF_(EN)-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0A0F1A)](https://pcruz.spire.pt/assets/pdf/CV_Pedro_Cruz_english.pdf)
-[![Email Direto](https://img.shields.io/badge/CONTACTO-pcruz%40spire.pt-10B981?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0A0F1A)](mailto:pcruz@spire.pt)
-
 </div>
 
 <img src="assets/divider-pulse.svg" width="100%" />
