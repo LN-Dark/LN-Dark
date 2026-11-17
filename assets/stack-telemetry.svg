@@ -1,77 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 290" width="1200" height="290">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 290" width="100%" height="100%">
   <defs>
     <linearGradient id="bgCard" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#070B14" />
-      <stop offset="100%" stop-color="#0B1120" />
+      <stop offset="0%" stop-color="#070B14"/>
+      <stop offset="100%" stop-color="#0B1120"/>
     </linearGradient>
     <linearGradient id="barCyan" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00F0FF" />
-      <stop offset="100%" stop-color="#3B82F6" />
+      <stop offset="0%" stop-color="#00F0FF"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
     </linearGradient>
     <linearGradient id="barPurple" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#6366F1" />
-      <stop offset="100%" stop-color="#EC4899" />
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#EC4899"/>
     </linearGradient>
   </defs>
 
-  <style>
-    .mono { font-family: 'JetBrains Mono', Consolas, monospace; }
-    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
-    .layer-title { font-size: 13px; font-weight: 700; fill: #F8FAFC; }
-    .layer-tech { font-size: 12px; fill: #94A3B8; }
-    .badge { font-size: 10px; font-weight: 700; fill: #00F0FF; letter-spacing: 1.5px; }
-    
-    @keyframes pulseBar {
-      0%, 100% { opacity: 0.95; }
-      50% { opacity: 0.55; }
-    }
-    .bar-anim { animation: pulseBar 3.5s ease-in-out infinite; }
-  </style>
+  <rect x="2" y="2" width="1196" height="286" rx="14" fill="url(#bgCard)" stroke="#1E293B" stroke-width="2"/>
 
-  <rect width="1200" height="290" rx="14" fill="url(#bgCard)" stroke="#1E293B" stroke-width="2" />
+  <text x="35" y="38" font-family="monospace" font-size="11" font-weight="bold" fill="#00F0FF" letter-spacing="1.5">TELEMETRIA DE ENGENHARIA // ARQUITETURA SOBERANA L1 → L5</text>
+  <text x="1165" y="38" text-anchor="end" font-family="monospace" font-size="11" font-weight="bold" fill="#10B981" letter-spacing="1.5">● ZERO CLOUD DEPENDENCY</text>
+  <line x1="35" y1="52" x2="1165" y2="52" stroke="#1E293B" stroke-width="1"/>
 
-  <!-- Cabeçalho do Painel -->
-  <text x="35" y="38" class="mono badge">TELEMETRIA DE ENGENHARIA // ARQUITETURA SOBERANA L1 → L5</text>
-  <text x="1165" y="38" text-anchor="end" class="mono badge" fill="#10B981">● ZERO CLOUD DEPENDENCY</text>
-  <line x1="35" y1="52" x2="1165" y2="52" stroke="#1E293B" stroke-width="1" />
-
-  <!-- L1 -->
   <g transform="translate(35, 72)">
-    <text x="0" y="15" class="mono layer-title" fill="#00F0FF">L1 · APLICACIONAL & MOBILE</text>
-    <text x="260" y="15" class="sans layer-tech">CodeIgniter 4 · PHP 8+ · Flutter (Android/iOS/Desktop) · JS/TS · REST APIs</text>
-    <rect x="850" y="4" width="280" height="12" rx="6" fill="#0F172A" />
-    <rect class="bar-anim" x="850" y="4" width="272" height="12" rx="6" fill="url(#barCyan)" />
+    <text x="0" y="15" font-family="monospace" font-size="13" font-weight="bold" fill="#00F0FF">L1 · APLICACIONAL &amp; MOBILE</text>
+    <text x="260" y="15" font-family="sans-serif" font-size="13" fill="#94A3B8">CodeIgniter 4 · PHP 8+ · Flutter (Android/iOS/Desktop) · JS/TS · REST APIs</text>
+    <rect x="850" y="4" width="280" height="12" rx="6" fill="#0F172A"/>
+    <rect x="850" y="4" width="272" height="12" rx="6" fill="url(#barCyan)">
+      <animate attributeName="opacity" values="1;0.5;1" dur="3s" repeatCount="indefinite"/>
+    </rect>
   </g>
 
-  <!-- L2 -->
   <g transform="translate(35, 114)">
-    <text x="0" y="15" class="mono layer-title" fill="#38BDF8">L2 · IA LOCAL & VISÃO</text>
-    <text x="260" y="15" class="sans layer-tech">Ollama (On-Premise LLMs) · Python Computer Vision · ComfyUI · n8n Workflows</text>
-    <rect x="850" y="4" width="280" height="12" rx="6" fill="#0F172A" />
-    <rect class="bar-anim" x="850" y="4" width="255" height="12" rx="6" fill="url(#barCyan)" />
+    <text x="0" y="15" font-family="monospace" font-size="13" font-weight="bold" fill="#38BDF8">L2 · IA LOCAL &amp; VISÃO</text>
+    <text x="260" y="15" font-family="sans-serif" font-size="13" fill="#94A3B8">Ollama (On-Premise LLMs) · Python Computer Vision · ComfyUI · n8n Workflows</text>
+    <rect x="850" y="4" width="280" height="12" rx="6" fill="#0F172A"/>
+    <rect x="850" y="4" width="255" height="12" rx="6" fill="url(#barCyan)">
+      <animate attributeName="opacity" values="1;0.5;1" dur="3s" begin="0.5s" repeatCount="indefinite"/>
+    </rect>
   </g>
 
-  <!-- L3 -->
   <g transform="translate(35, 156)">
-    <text x="0" y="15" class="mono layer-title" fill="#6366F1">L3 · DADOS & MOTOR FISCAL</text>
-    <text x="260" y="15" class="sans layer-tech">MySQL / MariaDB · Otimização SQL Crítica · Synology NAS RAID · Backups Imutáveis</text>
-    <rect x="850" y="4" width="280" height="12" rx="6" fill="#0F172A" />
-    <rect class="bar-anim" x="850" y="4" width="265" height="12" rx="6" fill="url(#barPurple)" />
+    <text x="0" y="15" font-family="monospace" font-size="13" font-weight="bold" fill="#6366F1">L3 · DADOS &amp; MOTOR FISCAL</text>
+    <text x="260" y="15" font-family="sans-serif" font-size="13" fill="#94A3B8">MySQL / MariaDB · Otimização SQL Crítica · Synology NAS RAID · Backups Imutáveis</text>
+    <rect x="850" y="4" width="280" height="12" rx="6" fill="#0F172A"/>
+    <rect x="850" y="4" width="265" height="12" rx="6" fill="url(#barPurple)">
+      <animate attributeName="opacity" values="1;0.5;1" dur="3s" begin="1s" repeatCount="indefinite"/>
+    </rect>
   </g>
 
-  <!-- L4 -->
   <g transform="translate(35, 198)">
-    <text x="0" y="15" class="mono layer-title" fill="#8B5CF6">L4 · REDES & INFRAESTRUTURA</text>
-    <text x="260" y="15" class="sans layer-tech">Cisco CCNA · Docker · Linux & Windows Server · OpenVPN · Tailscale / Headscale</text>
-    <rect x="850" y="4" width="280" height="12" rx="6" fill="#0F172A" />
-    <rect class="bar-anim" x="850" y="4" width="260" height="12" rx="6" fill="url(#barPurple)" />
+    <text x="0" y="15" font-family="monospace" font-size="13" font-weight="bold" fill="#8B5CF6">L4 · REDES &amp; INFRAESTRUTURA</text>
+    <text x="260" y="15" font-family="sans-serif" font-size="13" fill="#94A3B8">Cisco CCNA · Docker · Linux &amp; Windows Server · OpenVPN · Tailscale / Headscale</text>
+    <rect x="850" y="4" width="280" height="12" rx="6" fill="#0F172A"/>
+    <rect x="850" y="4" width="260" height="12" rx="6" fill="url(#barPurple)">
+      <animate attributeName="opacity" values="1;0.5;1" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+    </rect>
   </g>
 
-  <!-- L5 -->
   <g transform="translate(35, 240)">
-    <text x="0" y="15" class="mono layer-title" fill="#EC4899">L5 · CIBERSEGURANÇA & SIEM</text>
-    <text x="260" y="15" class="sans layer-tech">Wazuh SIEM · Zero-Trust Access · RustDesk Self-Hosted · Auditoria & Hardening</text>
-    <rect x="850" y="4" width="280" height="12" rx="6" fill="#0F172A" />
-    <rect class="bar-anim" x="850" y="4" width="250" height="12" rx="6" fill="url(#barPurple)" />
+    <text x="0" y="15" font-family="monospace" font-size="13" font-weight="bold" fill="#EC4899">L5 · CIBERSEGURANÇA &amp; SIEM</text>
+    <text x="260" y="15" font-family="sans-serif" font-size="13" fill="#94A3B8">Wazuh SIEM · Zero-Trust Access · RustDesk Self-Hosted · Auditoria &amp; Hardening</text>
+    <rect x="850" y="4" width="280" height="12" rx="6" fill="#0F172A"/>
+    <rect x="850" y="4" width="250" height="12" rx="6" fill="url(#barPurple)">
+      <animate attributeName="opacity" values="1;0.5;1" dur="3s" begin="2s" repeatCount="indefinite"/>
+    </rect>
   </g>
 </svg>
