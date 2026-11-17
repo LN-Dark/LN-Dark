@@ -129,7 +129,7 @@ Cada plataforma nasceu de um problema real num negócio real e encontra-se em op
 
 <br/><br/>
 
-[![Stack Tecnológica](https://skillicons.dev/icons?i=php,flutter,dart,py,js,ts,html,css,mysql,docker,linux,nginx,apache,git,github,vscode,androidstudio&perline=9&theme=dark)](https://pcruz.spire.pt/?lang=pt#stack)
+[![Stack Tecnológica](https://skillicons.dev/icons?i=php,flutter,dart,py,js,ts,html,css,mysql,docker,linux,nginx,git,github,vscode,androidstudio&perline=9&theme=dark)](https://pcruz.spire.pt/?lang=pt#stack)
 
 </div>
 
